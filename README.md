@@ -7,3 +7,5 @@ Features
 4) Face and emotion Recognition 
 5) Syntactic and semantic Analysis 
 6) Natural Language Processing
+
+For more inforation: https://ieeexplore.ieee.org/abstract/document/8463876
